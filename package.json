@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CamdanMead/Discord-Bot-Template/issues"
   },
-  "homepage": "https://github.com/CamdanMead/Discord-Bot-Template#readme"
+  "homepage": "https://github.com/CamdanMead/Discord-Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
