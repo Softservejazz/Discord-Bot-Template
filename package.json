@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A template that you can use to make your own Discord bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamdanMead/Discord-Bot-Template.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Template"
+  ],
+  "author": "Camdan Mead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamdanMead/Discord-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/CamdanMead/Discord-Bot-Template#readme"
+}
